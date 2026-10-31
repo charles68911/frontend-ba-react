@@ -22,3 +22,4 @@ npm run build
 ```
 
 This is intentionally an empty scaffold. It does not yet include recipe pages, authentication, API services, routing, or backend integration. Refer to your instructor's documentation when implementing those features.
+# frontend-ba-react
